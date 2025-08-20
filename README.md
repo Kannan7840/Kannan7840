@@ -4,4 +4,4 @@ Backend Developer experienced in Java, Spring Boot, MariaDB, MongoDB, RabbitMQ, 
 
 I enjoy movies, music, kabbadi, badminton, and traveling.
 
-[LinkedIn](https://www.linkedin.com/in/thamarai-kannan-362370238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn](https://www.linkedin.com/in/thamarai-kannan-362370238)
